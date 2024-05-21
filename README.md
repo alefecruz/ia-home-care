@@ -18,7 +18,7 @@
   <a href="#wrench-rodando-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## :rocket: Publicação do Artico
+## :rocket: Publicação do Artigo
 
 [Acesse a publicação na revista REPA UPE](http://revistas.poli.br/index.php/repa/article/view/1770)
 
