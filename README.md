@@ -3,7 +3,7 @@
 </h1>
 <div  align="center">
   <h1>
-  Data-Mining
+  IA Home Care
   </h1>
   <h3>
     IA Home Care é uma Aplicação de algoritmo genético na gestão de visitas médicas em serviço de atenção domiciliar <br />
